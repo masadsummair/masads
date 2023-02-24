@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software engineer: I am a passionate and dedicated software engineer with expertise in web and mobile app development.<br><br>🎓 Lifelong learner: I have a strong thirst for knowledge and I am always eager to learn new technologies and skills.<br><br>🚀 Startup enthusiast: I am fascinated by the world of startups and I enjoy bringing innovative ideas to life.<br><br>💬 Collaborator: I believe in the power of collaboration and teamwork, and I enjoy working with people from diverse backgrounds to achieve shared goals.<br><br>🔭 Currently, I am working on two projects:<br><br>•"Lenania": A cutting-edge parenting and pregnancy AI chatbot for a German client, integrating Stripe API for payment processing, and using Vercel for hosting and deployment.<br>•"Rentify": A mobile application that allows people to rent products on mutual agreements, using MongoDB, ExpressJS, React Native, NodeJS, Redux Toolkit, Reanimated, Google Maps, and Twillo API.<br><br>🌱 I am currently learning about NextJS, Reanimated, and TypeScript to further enhance my skills in web and mobile app development.<br><br>
+👨‍💻 Software engineer: I am a passionate and dedicated software engineer with expertise in web and mobile app development.<br><br>🎓 Lifelong learner: I have a strong thirst for knowledge and I am always eager to learn new technologies and skills.<br><br>🚀 Startup enthusiast: I am fascinated by the world of startups and I enjoy bringing innovative ideas to life.<br><br>💬 Collaborator: I believe in the power of collaboration and teamwork, and I enjoy working with people from diverse backgrounds to achieve shared goals.<br><br>🔭 Currently, I am working on two projects:<br><br>"Lenania": A cutting-edge parenting and pregnancy AI chatbot for a German client, integrating Stripe API for payment processing, and using Vercel for hosting and deployment.<br>"Rentify": A mobile application that allows people to rent products on mutual agreements, using MongoDB, ExpressJS, React Native, NodeJS, Redux Toolkit, Reanimated, Google Maps, and Twillo API.<br><br>🌱 I am currently learning about NextJS, Reanimated, and TypeScript to further enhance my skills in web and mobile app development.<br><br>
 
 
 ## 🌐 Socials:
@@ -19,7 +19,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=masads&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
