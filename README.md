@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=masads&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masads&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masads&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+<!---
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=masad88737270)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 -->
