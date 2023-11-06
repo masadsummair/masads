@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software engineer: I am a passionate and dedicated software engineer with expertise in web and mobile app development.<br><br>🎓 Lifelong learner: I have a strong thirst for knowledge and I am always eager to learn new technologies and skills.<br><br>🚀 Startup enthusiast: I am fascinated by the world of startups and I enjoy bringing innovative ideas to life.<br><br>💬 Collaborator: I believe in the power of collaboration and teamwork, and I enjoy working with people from diverse backgrounds to achieve shared goals.<br><br>🔭 Currently, I am working on one projects:<br><br>"Lenania": A cutting-edge parenting and pregnancy AI chatbot for a German client, integrating Stripe API for payment processing, and using Vercel for hosting and deployment.
+👨‍💻 Software engineer: I am a passionate and dedicated software engineer with expertise in web and mobile app development.<br><br>🎓 Lifelong learner: I have a strong thirst for knowledge and I am always eager to learn new technologies and skills.<br><br>🚀 Startup enthusiast: I am fascinated by the world of startups and I enjoy bringing innovative ideas to life.<br><br>💬 Collaborator: I believe in the power of collaboration and teamwork, and I enjoy working with people from diverse backgrounds to achieve shared goals.
 
 
 ## 🌐 Socials:
